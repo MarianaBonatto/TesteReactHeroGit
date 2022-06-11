@@ -1,6 +1,5 @@
 
 import React from 'react';
-import 'antd/dist/antd.css';
 import './styles.css';
 import logo from '../../../imagens/logo.png';
 
